@@ -11,15 +11,10 @@
         "php": "^8.0",
         "filament/forms": "^2.0"
     },
-    "autoload": {
-        "psr-4": {
-            "Aliloubm\\": "src"
-        }
-    },
     "extra": {
         "laravel": {
             "providers": [
-                "Aliloubm\\MonthPickerServiceProvider"
+                "Filament\\MonthPickerServiceProvider"
             ]
         }
     },
