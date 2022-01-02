@@ -14,7 +14,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "vendor\\filament-month-picker\\src\\MonthPickerServiceProvider"
+                "vendor\\aliloubm\\filament-month-picker\\src\\MonthPickerServiceProvider"
             ]
         }
     },
