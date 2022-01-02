@@ -1,4 +1,5 @@
 <?php
+namespace Aliloubm;
 
 use Filament\PluginServiceProvider;
  
