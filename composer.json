@@ -1,0 +1,23 @@
+{
+    "name": "filament-month-picker",
+    "description": "month picker for filament v2",
+    "license": "MIT",
+    "homepage": "https://github.com/aliloubm/filament-month-picker",
+    "support": {
+        "issues": "https://github.com/aliloubm/filament-month-picker/issues",
+        "source": "https://github.com/aliloubm/filament-month-picker"
+    },
+    "require": {
+        "php": "^8.0",
+        "filament/forms": "^2.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vendor\\filament-month-picker\\src\\MonthPickerServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
