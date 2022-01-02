@@ -13,13 +13,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Filament\\": "src"
+            "Aliloubm\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Filament\\MonthPickerServiceProvider"
+                "Aliloubm\\MonthPickerServiceProvider"
             ]
         }
     },
